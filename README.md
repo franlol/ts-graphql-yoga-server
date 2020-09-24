@@ -12,8 +12,11 @@ Node
 Follow this steps:
 
 >git clone
+
 >npm install
+
 >npm run dev
+
 >http://localhost:3001
 
 Then just try some query:
