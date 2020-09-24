@@ -1,0 +1,24 @@
+{
+  "name": "messages-graphql-yogaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "dev": "concurrently 'tsc -w' 'nodemon ./dist/index.js'"
+  },
+  "keywords": [],
+  "author": "franlol",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/graphql": "^14.5.0",
+    "@types/mongoose": "^5.7.36",
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.10.6"
+  }
+}
