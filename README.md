@@ -1,13 +1,14 @@
-### GraphQL Server - TypeScript
+## GraphQL Server - TypeScript
 
 GraphQL Test Server, created with 🧘 [Yoga Server](https://github.com/prisma-labs/graphql-yoga) and [TypeScript](https://www.typescriptlang.org/).
 
-##### Requeriments
+#### Requeriments
 
 MongoDB Server runing
-Node
 
-##### Wanna test?
+Node.js
+
+#### Wanna test?
 
 Follow this steps:
 
